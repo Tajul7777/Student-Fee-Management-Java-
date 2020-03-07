@@ -1,0 +1,17 @@
+26-08-2017 JAVA 1 Tushar Absent
+26-08-2017 JAVA 2 Siam Present
+26-08-2017 JAVA 3 Rajon Absent
+26-08-2017 JAVA 4 Sohag Absent
+26-08-2017 JAVA 5 Dipto Present
+26-08-2017 JAVA 6 Rudra Present
+26-08-2017 JAVA 8 Shakil Absent
+26-08-2017 COMPILER 1 Tushar Present
+26-08-2017 COMPILER 2 Siam Present
+26-08-2017 COMPILER 5 Dipto Present
+26-08-2017 COMPILER 8 Shakil Present
+26-08-2017 ALGORITHM 2 Siam Present
+26-08-2017 ALGORITHM 5 Dipto Present
+26-08-2017 ALGORITHM 6 Rudra Absent
+26-08-2017 ALGORITHM 7 Mony Present
+26-08-2017 ALGORITHM 8 Shakil Absent
+26-08-2017 DISCRETE 1 Tushar Present

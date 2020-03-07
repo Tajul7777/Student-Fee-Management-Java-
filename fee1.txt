@@ -1,0 +1,27 @@
+1 Tushar Tuition Fee JAVA 13500 - Summer'17
+1 Tushar Tuition Fee COMPILER 13500 - Summer'17
+1 Tushar Tuition Fee DISCRETE 13500 - Summer'17
+2 Siam Tuition Fee JAVA 13500 - Summer
+2 Siam Library Fine NONE 50 - Summer'17
+2 Siam Tuition Fee ALGORITHM 13500 - summer
+3 Rajon Tuition Fee JAVA 13500 - Summer'17
+2 Siam Tuition Fee COMPILER 13500 - Summer
+4 Sohag Tuition Fee JAVA 13500 - Summer'17
+5 Dipto Tuition Fee ALGORITHM 4500 - summer'17
+5 Dipto Tuition Fee JAVA 13500 - summer'17
+5 Dipto Tuition Fee COMPILER 13500 - summer
+5 Dipto Late Fee NONE 1000 - summer'17
+5 Dipto Library Fine NONE 50 - summer'17
+6 Rudra Tuition Fee JAVA 13500 - summer'17
+7 Mony Library Fine NONE 50 - Summer'17
+6 Rudra Tuition Fee ALGORITHM 13500 - summer'17
+5 Dipto Aditional Fee NONE 500 - Spring'17
+6 Rudra Aditional Fee NONE 750 - Spring'17
+7 Mony Tuition Fee ALGORITHM 13500 - Summer'17
+8 Shakil Tuition Fee COMPILER 13500 - summer'17
+8 Shakil Library Fine NONE 150 - summer'17
+8 Shakil Tuition Fee JAVA 4500 - summer'17
+8 Shakil Tuition Fee ALGORITHM 13500 - summer'17
+8 Shakil Late Fee NONE 1000 - summer'17
+8 Shakil Aditional Fee NONE 750 - Spring'17
+  Aditional Fee NONE 500 - Spring'17
